@@ -1,0 +1,2 @@
+#Displaythetrace
+print("Learning python")
